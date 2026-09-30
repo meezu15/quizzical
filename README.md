@@ -114,9 +114,6 @@ quizzical/
 
 ### Steps
 1. Open terminal inside the project directory:
-   ```bash
-   cd "C:\Users\IT BD\.gemini\antigravity\scratch\quizzical"
-   ```
 2. Install dependencies:
    ```bash
    flutter pub get
